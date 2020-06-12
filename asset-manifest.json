@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/almapowell/light-life-wellness.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/almapowell/light-life-wellness.git/static/js/main.4f8f3152.chunk.js",
+    "main.js.map": "/almapowell/light-life-wellness.git/static/js/main.4f8f3152.chunk.js.map",
+    "runtime-main.js": "/almapowell/light-life-wellness.git/static/js/runtime-main.04701cdd.js",
+    "runtime-main.js.map": "/almapowell/light-life-wellness.git/static/js/runtime-main.04701cdd.js.map",
+    "static/js/2.739124f2.chunk.js": "/almapowell/light-life-wellness.git/static/js/2.739124f2.chunk.js",
+    "static/js/2.739124f2.chunk.js.map": "/almapowell/light-life-wellness.git/static/js/2.739124f2.chunk.js.map",
+    "index.html": "/almapowell/light-life-wellness.git/index.html",
+    "precache-manifest.be72f4934cf13a9becc40ab7f94568df.js": "/almapowell/light-life-wellness.git/precache-manifest.be72f4934cf13a9becc40ab7f94568df.js",
+    "service-worker.js": "/almapowell/light-life-wellness.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/almapowell/light-life-wellness.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.739124f2.chunk.js.LICENSE.txt": "/almapowell/light-life-wellness.git/static/js/2.739124f2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/almapowell/light-life-wellness.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04701cdd.js",
+    "static/js/2.739124f2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4f8f3152.chunk.js"
+  ]
+}
