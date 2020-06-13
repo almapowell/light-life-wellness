@@ -16,6 +16,7 @@ const Header = () => {
                     <LinkStyling activeClassName="selected" to="/services">Our Services</LinkStyling>
                     <LinkStyling activeClassName="selected" to="/about">About</LinkStyling>
                     <LinkStyling activeClassName="selected" to="/contact">Contact</LinkStyling>
+                    <LinkStyling activeClassName="selected" to="/scheduletoday">Schedule Today</LinkStyling>
                 </div>
             </HeaderContainer>
         </div>
