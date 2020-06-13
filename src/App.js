@@ -1,14 +1,13 @@
 import React from 'react';
 import './App.css';
-import {Link} from 'react-router-dom';
 import routes from './routes';
+import Header from './components/Header';
 
 const App = () => {
 
   return (
     <div className="App">
-      <h1>Light Life Wellness</h1>
-      <Link to="/about">About</Link>
+      <Header />
       <div>
         {routes}
       </div>
